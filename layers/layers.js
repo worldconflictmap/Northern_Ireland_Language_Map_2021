@@ -81,13 +81,13 @@ var group_NI_languages = new ol.layer.Group({
                                 layers: [lyr__4,lyr__4_2,],
 				fold: 'open',
                                 title: 'NI languages<br />\
-    <img src="styles/legend/_4_0.png" /> English_100<br />\
-    <img src="styles/legend/_4_1.png" /> English_90<br />\
-    <img src="styles/legend/_4_2.png" /> English_80<br />\
-    <img src="styles/legend/_4_3.png" /> English_70<br />\
-    <img src="styles/legend/_4_4.png" /> English_60<br />\
-    <img src="styles/legend/_4_5.png" /> English_50<br />\
-    <img src="styles/legend/_4_6.png" /> English_40<br />'});
+    <img src="styles/legend/ni_4_0.png" /> English_100<br />\
+    <img src="styles/legend/ni_4_1.png" /> English_90<br />\
+    <img src="styles/legend/ni_4_2.png" /> English_80<br />\
+    <img src="styles/legend/ni_4_3.png" /> English_70<br />\
+    <img src="styles/legend/ni_4_4.png" /> English_60<br />\
+    <img src="styles/legend/ni_4_5.png" /> English_50<br />\
+    <img src="styles/legend/ni_4_6.png" /> English_40<br />'});
 
 lyr_GoogleSatellite_0.setVisible(true);lyr_GoogleHybrid_1.setVisible(true);lyr_GoogleLabels_2.setVisible(true);lyr_OSMStandard_3.setVisible(true);lyr__4.setVisible(true);lyr__4_2.setVisible(true);group_NI_languages.setVisible(false);
 var layersList = [lyr_GoogleSatellite_0,lyr_GoogleHybrid_1,lyr_GoogleLabels_2,lyr_OSMStandard_3,group_NI_languages];
